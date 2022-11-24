@@ -1,0 +1,182 @@
+/* body */
+.bg-coffee{
+    background-image: url("background1.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: bottom;
+    opacity: 1;                         /*???????????????*/
+}
+
+/* icon */
+.icon{
+    height: 22px;
+    width: 22px;
+    margin-right: 7px;
+}
+
+/* icon heading */
+.icon-heading{
+    font-family: 'Pacifico', cursive;
+}
+
+/* navbar */
+
+
+/* nav link */
+.nav-link{
+    margin-right: 50px
+}
+
+.all-btn{
+    background-color: rgb(208, 121, 59);
+    border-radius: 30px;
+    color: white;
+    --bs-btn-border-color: none;
+}
+
+.all-btn:hover{
+    background-color: rgb(217, 192, 175);
+}
+
+.landing1{
+    height: 90vh;
+}
+
+.landing1-text{
+    margin-top: 100px;
+    margin-left: 65px;
+}
+
+.img-on-section2{
+    height: 293px;
+    width: 185px;
+    margin-top: 66px;
+    margin-left: 16px
+}
+
+.img2{
+    background-image: url("coffee-drinker.jpg");
+    background-size: cover;    
+    background-position: center;
+}
+
+.img3{
+    background-image: url("coffee-cups.png");
+    background-size: cover;    
+}
+
+.img4{
+    background-image: url("coffee-beans.jpg");
+    background-size: cover;    
+}
+
+.landing2{
+    background-color: bisque;
+}
+
+.landing2-text{
+    padding-top: 127px;
+    padding-bottom: 98px;
+    padding-left: 15px;
+    padding-right: 246px
+}
+
+
+
+.landing3-text{
+    background-color: rgb(179, 94, 56);
+    padding-top: 119px;
+    padding-bottom: 149px;
+    padding-left: 219px;
+    padding-right: 13px;
+}
+
+.button3{
+    margin-left: 105px;
+}
+
+.button4{
+    margin-left: 105px;
+}
+
+.landing3-img{
+    background-image: url("coffee-aroma.jpg");
+    background-size: cover;
+    opacity: 0.7;
+}
+
+.landing3-sidetext{
+
+}
+
+.square{
+    border: 0.5px solid grey;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 10px;
+}
+
+.sq-row1{
+    margin-top: 25px;
+}
+
+.sq-row2{
+
+}
+
+.sm-img{
+    height: 36px;
+    width: 35px;
+    margin: auto auto;
+}
+
+.sq-row1-col1{
+    border-top: none;
+    border-left: none;
+}
+
+.sq-row1-col2{
+    border-top: none;
+    border-right: none;
+}
+
+.sq-row2-col1{
+    border-bottom: none;
+    border-left: none;
+}
+
+.sq-row2-col2{
+    border-bottom: none;
+    border-right: none;
+}
+
+.small-img1{
+    background-image: url("coffee-beans-icon.png");
+    background-size: cover;
+    opacity: 1;
+}
+
+.small-img2{
+    background-image: url("milk-bottle-icon.png");
+    background-size: cover;
+    opacity: 1;
+}
+
+.small-img3{
+    background-image: url("coffee-filter-icon.png");
+    background-size: cover;
+    opacity: 1;
+}
+
+.small-img4{
+    background-image: url("coffee-cup-icon.png");
+    background-size: cover;
+    opacity: 1;
+}
+
+.h7{
+    margin-top: 17px;
+    font-size: 14px;
+    opacity: 1;
+}
