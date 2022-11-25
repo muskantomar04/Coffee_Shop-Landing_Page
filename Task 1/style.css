@@ -4,6 +4,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-position-y: bottom;
+    /* opacity: 1;                         ??????????????? */
 }
 
 /* icon */
@@ -82,8 +83,8 @@
 
 .landing3-text{
     background-color: rgb(179, 94, 56);
-    padding-top: 106px;
-    padding-bottom: 104px;
+    padding-top: 119px;
+    padding-bottom: 149px;
     padding-left: 219px;
     padding-right: 13px;
 }
