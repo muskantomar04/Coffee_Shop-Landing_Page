@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* header {
+    height: 100vh;
+} */
+
+body{
+    display: grid;
+    place-items: center;
+    background-image: url("numbers_background.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.maindiv{
+    width: 224.7vh;
+    height: 100vh;
+}
+
+.heading{
+    display: inline;
+    color: white;
+    margin-left: 385px;
+    margin-right: 280px; 
+    background-color: black;    
+}
+
+form{
+    background-color: #c1c1c1;
+    padding: 40px;
+    width: 621px;
+    margin: 100px;
+    margin-left: 320px;
+    text-align: center;
+}
+
+#tempCalc label{
+    font-size: 30px;
+}
+
+#temp{
+    border: none;
+    padding: 10px;
+    height: 40px;
+    width: 100px;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+#temp_diff{
+    height: 40px;
+    border: none;
+    margin-top: 20px;
+    font-size: 15px;
+    vertical-align: top;
+}
+
+[type="submit"]{
+    height: 35px;
+    margin: 20px;
+    width: 100px;
+    font-size: 15px;
+    border: none;
+    background-color: black;
+    color: white;
+}
+
+#resultContainer{
+    font-size: 35px;
+}
